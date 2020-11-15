@@ -8,4 +8,4 @@ This application was developed during a group coursework assignment at UQ for DE
 
 ## Demo 
 
-![](wanderlist-demo.gif)
+![](demo.gif)
